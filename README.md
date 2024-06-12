@@ -20,6 +20,8 @@ However, there are challenges and considerations in deploying CO2 gas-cooled com
 [Window-Mounted Computer](https://github.com/sourceduty/Window-Mounted_Computer)
 <br>
 [Thermal Imaging PC Case](https://github.com/sourceduty/Thermal_Imaging_PC_Case)
+<br>
+[Dyson Bladeless PC](https://github.com/sourceduty/Dyson_Bladeless_PC)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
